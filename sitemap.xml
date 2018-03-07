@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jgwallistest.github.io/tours/tour1/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jgwallistest.github.io/tours/tour2/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jgwallistest.github.io/tours/tour3/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jgwallistest.github.io/tours/tour4/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jgwallistest.github.io/tours/tour5/</loc>
+    <lastmod>2018-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jgwallistest.github.io/about/</loc>
     <lastmod>2018-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jgwallistest.github.io/tours/custom-tours/</loc>
-    <lastmod>2018-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jgwallistest.github.io/tours/standard-tours/</loc>
     <lastmod>2018-02-24T00:00:00+00:00</lastmod>
   </url>
   
