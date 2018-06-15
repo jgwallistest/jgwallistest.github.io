@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14.130996mm"
+   height="22.26531mm"
+   viewBox="0 0 14.130996 22.265311"
+   version="1.1"
+   id="svg876"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="BUS-Flame.svg">
+  <defs
+     id="defs870" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.0485533"
+     inkscape:cx="26.704244"
+     inkscape:cy="42.076177"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata873">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.0840046e-4,-274.73469)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.76249981px;line-height:2.97656226px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="36.866188"
+       y="270.70422"
+       id="text4543"><tspan
+         sodipodi:role="line"
+         x="36.866188"
+         y="273.55502"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:'Yanone Kaffeesatz';stroke-width:0.26458332"
+         id="tspan4551" /></text>
+    <g
+       style="stroke-width:3.720819"
+       id="g93-9"
+       transform="matrix(0.26875805,0,0,0.26875805,6.7046082,273.54941)">
+      <g
+         style="stroke-width:3.720819"
+         id="g85-3">
+        <g
+           style="stroke-width:3.720819"
+           id="g11242-3" />
+      </g>
+    </g>
+    <g
+       id="g109">
+      <g
+         aria-label="Breckland"
+         style="font-style:normal;font-weight:normal;font-size:6.06691742px;line-height:3.79182363px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+         id="text4560-9-4-2" />
+    </g>
+    <path
+       id="path4613-67-3-2-8"
+       style="fill:#6464ff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.26458335"
+       d="m 7.2202307,274.73469 c 0,0 -7.38469898,9.56882 -7.21764704,15.22698 0.07241297,2.45263 1.33109444,5.06377 3.51193024,6.38514 0.4437081,0.26883 0.9095407,0.48021 1.3869956,0.64027 -1.2933632,-0.83052 -2.0395626,-2.45113 -2.0825603,-3.97443 -0.09982,-3.53634 4.3315186,-9.51674 4.3315186,-9.51674 0,0 4.2816672,6.02787 4.1418662,9.54154 -0.0606,1.52315 -0.808506,3.13984 -2.1073651,3.96255 0.4785939,-0.15731 0.9456751,-0.36616 1.3911291,-0.63252 2.188586,-1.3086 3.447826,-3.91339 3.549138,-6.36499 0.232322,-5.62185 -6.905005,-15.2678 -6.9050053,-15.2678 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccscsccsc" />
+  </g>
+</svg>
