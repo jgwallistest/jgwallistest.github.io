@@ -1,0 +1,11 @@
+# Upgrade to secure website on 26Nov19, redirecting 'http://' to 'https://'.
+
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Allow anybody to access our fonts.
+
+<FilesMatch ".(eot|otf|ttf|woff|woff2)">
+    Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
