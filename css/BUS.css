@@ -26,7 +26,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 3 */
-  background: #fff;
+  background: #ffffdd;
   color: #444; }
 
 /*
@@ -373,7 +373,7 @@ pre {
   padding: 10px;
   border: 1px solid #e5e5e5;
   border-radius: 3px;
-  background: #fff; }
+  background: #ffffdd; }
 
 pre code {
   font-family: Consolas, monaco, monospace; }
@@ -1173,7 +1173,7 @@ button.uk-icon:not(:disabled) {
   height: 15px;
   width: 15px;
   border-radius: 500px;
-  background: #fff;
+  background: #ffffdd;
   border: 1px solid #cccccc; }
 
 /* Firefox */
@@ -1184,7 +1184,7 @@ button.uk-icon:not(:disabled) {
   height: 15px;
   width: 15px;
   border-radius: 500px;
-  background: #fff;
+  background: #ffffdd;
   border: 1px solid #cccccc; }
 
 /* Edge */
@@ -1200,7 +1200,7 @@ button.uk-icon:not(:disabled) {
   height: 15px;
   width: 15px;
   border-radius: 500px;
-  background: #fff;
+  background: #ffffdd;
   border: 1px solid #cccccc; }
 
 /* Edge + IE11 */
@@ -1363,7 +1363,7 @@ button.uk-icon:not(:disabled) {
   border: 0 none;
   /* 4 */
   padding: 0 10px;
-  background: #fff;
+  background: #ffffdd;
   color: #444;
   border: 1px solid #e5e5e5;
   transition: 0.2s ease-in-out;
@@ -1402,7 +1402,7 @@ button.uk-icon:not(:disabled) {
 .uk-select:focus,
 .uk-textarea:focus {
   outline: none;
-  background-color: #fff;
+  background-color: #ffffdd;
   color: #444;
   border-color: #6464ff; }
 
@@ -2140,7 +2140,7 @@ select.uk-form-width-xsmall {
  * Default
  */
 .uk-section-default {
-  background: #fff; }
+  background: #ffffdd; }
 
 /*
  * Muted
@@ -2614,7 +2614,7 @@ select.uk-form-width-xsmall {
  * Default
  */
 .uk-tile-default {
-  background: #fff; }
+  background: #ffffdd; }
 
 /*
  * Muted
@@ -2716,7 +2716,7 @@ select.uk-form-width-xsmall {
 /* Hover modifier
  ========================================================================== */
 .uk-card-hover:not(.uk-card-default):not(.uk-card-primary):not(.uk-card-secondary):hover {
-  background: #fff;
+  background: #ffffdd;
   box-shadow: 0 25px 25px rgba(0, 0, 0, 0.16); }
 
 /* Style modifiers
@@ -2726,7 +2726,7 @@ select.uk-form-width-xsmall {
  * Note: Header and Footer are only implemented for the default style
  */
 .uk-card-default {
-  background: #fff;
+  background: #ffffdd;
   color: #444;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08); }
 
@@ -2734,7 +2734,7 @@ select.uk-form-width-xsmall {
   color: #333; }
 
 .uk-card-default.uk-card-hover:hover {
-  background-color: #fff;
+  background-color: #ffffdd;
   box-shadow: 0 25px 25px rgba(0, 0, 0, 0.16); }
 
 .uk-card-default .uk-card-header {
@@ -3151,7 +3151,7 @@ select.uk-form-width-xsmall {
  * Default
  */
 .uk-overlay-default {
-  background: rgba(255, 255, 255, 0.8); }
+  background: rgba(255, 255, 221, 0.8); }
 
 /*
  * Primary
@@ -3695,7 +3695,7 @@ ul.uk-nav-sub {
 /* Container
  ========================================================================== */
 .uk-navbar-container:not(.uk-navbar-transparent) {
-  background: #ffffff; }
+  background: #ffffdd; }
 
 /*
  * Remove pseudo elements created by micro clearfix as precaution (if Container component is used)
@@ -3888,7 +3888,7 @@ ul.uk-nav-sub {
   width: 200px;
   /* 4 */
   padding: 25px;
-  background: #fff;
+  background: #ffffdd;
   color: #444;
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15); }
 
@@ -4000,7 +4000,7 @@ ul.uk-nav-sub {
 /* Dropbar
  ========================================================================== */
 .uk-navbar-dropbar {
-  background: #fff; }
+  background: #ffffdd; }
 
 /*
  * Slide modifier
@@ -4558,7 +4558,7 @@ ul.uk-nav-sub {
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 221, 0.4);
     transition: background-color 0.1s ease-in-out; }
 
 /* Hover + Focus */
@@ -4713,7 +4713,7 @@ ul.uk-nav-sub {
   min-width: 200px;
   /* 4 */
   padding: 25px;
-  background: #fff;
+  background: #ffffdd;
   color: #444;
   box-shadow: 0 5px 12px rgba(0, 0, 0, 0.15); }
 
@@ -4859,7 +4859,7 @@ ul.uk-nav-sub {
   /* 3 */
   max-width: calc(100% - 0.01px) !important;
   /* 4 */
-  background: #fff;
+  background: #ffffdd;
   /* 5 */
   opacity: 0;
   transform: translateY(-100px);
@@ -4906,12 +4906,12 @@ ul.uk-nav-sub {
 
 .uk-modal-header {
   padding: 15px 30px;
-  background: #fff;
+  background: #ffffdd;
   border-bottom: 1px solid #e5e5e5; }
 
 .uk-modal-footer {
   padding: 15px 30px;
-  background: #fff;
+  background: #ffffdd;
   border-top: 1px solid #e5e5e5; }
 
 /*
@@ -4995,7 +4995,7 @@ ul.uk-nav-sub {
   top: 0;
   right: 0;
   padding: 20px;
-  background: #fff; }
+  background: #ffffdd; }
 
 /* ========================================================================
    Component: Lightbox
@@ -7045,7 +7045,7 @@ iframe.uk-cover {
 /* Color
  ========================================================================== */
 .uk-background-default {
-  background-color: #fff; }
+  background-color: #ffffdd; }
 
 .uk-background-muted {
   background-color: #f8f8f8; }
