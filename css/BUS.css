@@ -9015,5 +9015,9 @@ iframe.uk-cover {
   h3 {
     page-break-after: avoid; } }
 
+h1, .uk-h1 {
+  font-family: "Gas Pipe", sans-serif;
+  font-size: 36px; }
+
 div.meta {
   margin-bottom: 10px; }
